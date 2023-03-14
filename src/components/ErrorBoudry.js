@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class ErrorBoudry extends component {
+class ErrorBoudry extends Component {
     constructor(props) {
         super(props);
         this.state = {
